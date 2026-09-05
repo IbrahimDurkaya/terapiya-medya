@@ -1,0 +1,7 @@
+01-foto.png — arka plan fotoğrafı
+
+Kaynak: Pexels
+Bağlantı: https://www.pexels.com/photo/silhouette-of-man-contemplating-by-sea-29870512/
+Fotoğrafçı: Oğuzhan Karataş (https://www.pexels.com/@withoguz)
+Lisans: Pexels Lisansı (ücretsiz kullanım, atıf zorunlu değil ama belirtildi)
+İndirilen dosya: gorsel/kaynak-foto.jpg (orijinal çözünürlük)
