@@ -1,9 +1,0 @@
-ham.jpg.jpeg — arka plan fotoğrafı
-
-Kaynak: Yapay zekâ ile üretildi (fotoğraf çekimi veya stok arşiv değil).
-Gerekçe: strateji/eylul-icerik-metinleri.md dosyasının "FOTOĞRAF GEREKTİRENLER"
-bölümü bu sahneyi Nano Banana ile üretilecek aday olarak işaretledi; Pexels'te
-markaya uygun eşdeğer bir görsel bulunamadı.
-Sahne tarifi: "Sabah ışığında toplanmamış bir valiz, ev içi."
-İçerikte insan yok.
-Açıklama: meta.json içindeki ai_aciklama_gerekli alanı bu nedenle true.
