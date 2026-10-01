@@ -1,0 +1,15 @@
+Bu klasordeki video kliplerinin kaynagi.
+
+Acilis klibi (klip-a.mp4)
+  Pexels baglantisi: https://www.pexels.com/video/awaken-by-the-cellphone-alarm-clock-7593912/
+  Ceken: Miriam Alonso (https://www.pexels.com/@miriam-alonso)
+  Cozunurluk: 1080x1920
+  Arama terimi: phone lit up on nightstand, waking up, arm only no face
+  Lisans: Pexels lisansi (ucretsiz, ticari kullanima acik, atif zorunlu degil - yine de yukarida verildi)
+
+Kapanis klibi (klip-b.mp4)
+  Pexels baglantisi: https://www.pexels.com/video/night-city-traffic-from-above-with-bokeh-lights-30508832/
+  Ceken: David Saurik (https://www.pexels.com/@david-saurik-296473682)
+  Cozunurluk: 1080x1920
+  Arama terimi: window view street lights evening
+  Lisans: Pexels lisansi (ucretsiz, ticari kullanima acik, atif zorunlu degil - yine de yukarida verildi)
