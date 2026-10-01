@@ -1,0 +1,15 @@
+Bu klasordeki video kliplerinin kaynagi.
+
+Acilis klibi (klip-a.mp4)
+  Pexels baglantisi: https://www.pexels.com/video/close-up-video-of-a-cup-6278949/
+  Ceken: Artem Podrez (https://www.pexels.com/@artempodrez)
+  Cozunurluk: 1080x1920
+  Arama terimi: hand holding coffee cup, cafe bokeh lights, no face
+  Lisans: Pexels lisansi (ucretsiz, ticari kullanima acik, atif zorunlu degil - yine de yukarida verildi)
+
+Kapanis klibi (klip-b.mp4)
+  Pexels baglantisi: https://www.pexels.com/video/a-coffee-cup-on-a-table-with-a-view-of-the-sun-15520346/
+  Ceken: Kuiyibo Campos (https://www.pexels.com/@kuiyibo)
+  Cozunurluk: 1080x1920
+  Arama terimi: empty coffee cups on cafe table
+  Lisans: Pexels lisansi (ucretsiz, ticari kullanima acik, atif zorunlu degil - yine de yukarida verildi)
