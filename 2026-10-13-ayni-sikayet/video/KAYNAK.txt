@@ -1,0 +1,15 @@
+Bu klasordeki video kliplerinin kaynagi.
+
+Acilis klibi (klip-a.mp4)
+  Pexels baglantisi: https://www.pexels.com/video/back-view-of-a-man-standing-by-a-window-while-talking-on-the-phone-13801255/
+  Ceken: Mizuno K (https://www.pexels.com/@mizunokozuki)
+  Cozunurluk: 1080x1920
+  Arama terimi: person on phone call by window back view silhouette
+  Lisans: Pexels lisansi (ucretsiz, ticari kullanima acik, atif zorunlu degil - yine de yukarida verildi)
+
+Kapanis klibi (klip-b.mp4)
+  Pexels baglantisi: https://www.pexels.com/video/cozy-coffee-cup-by-sunlit-window-sill-33731946/
+  Ceken: Buse Çolak (https://www.pexels.com/@buusecolak)
+  Cozunurluk: 1080x1920
+  Arama terimi: plant on windowsill morning light
+  Lisans: Pexels lisansi (ucretsiz, ticari kullanima acik, atif zorunlu degil - yine de yukarida verildi)
