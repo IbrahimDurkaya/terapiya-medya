@@ -1,0 +1,15 @@
+Bu klasordeki video kliplerinin kaynagi.
+
+Acilis klibi (klip-a.mp4)
+  Pexels baglantisi: https://www.pexels.com/video/a-smartphone-on-the-table-6374207/
+  Ceken: KATRIN  BOLOVTSOVA (https://www.pexels.com/@ekaterina-bolovtsova)
+  Cozunurluk: 1080x2048
+  Arama terimi: smartphone on wooden table with plant, blank screen
+  Lisans: Pexels lisansi (ucretsiz, ticari kullanima acik, atif zorunlu degil - yine de yukarida verildi)
+
+Kapanis klibi (klip-b.mp4)
+  Pexels baglantisi: https://www.pexels.com/video/tranquil-view-of-lush-forest-through-window-33198242/
+  Ceken: TIVASEE . (https://www.pexels.com/@tivasee-17374727)
+  Cozunurluk: 1080x1920
+  Arama terimi: morning light through curtains
+  Lisans: Pexels lisansi (ucretsiz, ticari kullanima acik, atif zorunlu degil - yine de yukarida verildi)
