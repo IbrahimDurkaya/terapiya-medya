@@ -1,0 +1,16 @@
+{
+  "id": "elle-25-anket",
+  "tur": "elle",
+  "metin": "Bu ay kendinizle ya da biriyle ilgili yeni bir şey fark ettiniz mi?",
+  "gorsel": "elle-25-anket.png",
+  "bagli_gonderi": null,
+  "yayin_tarihi": "2026-10-31",
+  "yayin_saati": "16:00",
+  "uyum": {
+    "durum": "bekliyor",
+    "kontrol_eden": null,
+    "not": ""
+  },
+  "durum": "onay-bekliyor",
+  "yayin_sonucu": null
+}

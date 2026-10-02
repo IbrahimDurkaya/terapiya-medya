@@ -1,0 +1,16 @@
+{
+  "id": "elle-19-soru-kutusu",
+  "tur": "elle",
+  "metin": "Başkasına gösterdiğimiz nezaketi kendimize göstermek bazen daha zor.",
+  "gorsel": "elle-19-soru-kutusu.png",
+  "bagli_gonderi": null,
+  "yayin_tarihi": "2026-10-23",
+  "yayin_saati": "11:00",
+  "uyum": {
+    "durum": "bekliyor",
+    "kontrol_eden": null,
+    "not": ""
+  },
+  "durum": "onay-bekliyor",
+  "yayin_sonucu": null
+}

@@ -1,0 +1,16 @@
+{
+  "id": "16-gonderi-duyurusu",
+  "tur": "otomatik",
+  "metin": "Bir arkadaşınıza söylediğiniz cümleyi kendinize de söyleyebiliyor musunuz?",
+  "gorsel": "16-gonderi-duyurusu.png",
+  "bagli_gonderi": "2026-10-20-kendine-nezaket",
+  "yayin_tarihi": "2026-10-20",
+  "yayin_saati": "20:30",
+  "uyum": {
+    "durum": "bekliyor",
+    "kontrol_eden": null,
+    "not": ""
+  },
+  "durum": "onay-bekliyor",
+  "yayin_sonucu": null
+}

@@ -1,0 +1,16 @@
+{
+  "id": "14-seri-cumle",
+  "tur": "otomatik",
+  "metin": "Dinlemek, sırayı beklemek değil; onda kalabilmek.",
+  "gorsel": "14-seri-cumle.png",
+  "bagli_gonderi": null,
+  "yayin_tarihi": "2026-10-17",
+  "yayin_saati": "11:00",
+  "uyum": {
+    "durum": "bekliyor",
+    "kontrol_eden": null,
+    "not": ""
+  },
+  "durum": "onay-bekliyor",
+  "yayin_sonucu": null
+}

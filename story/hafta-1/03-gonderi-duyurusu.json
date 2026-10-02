@@ -1,0 +1,16 @@
+{
+  "id": "03-gonderi-duyurusu",
+  "tur": "otomatik",
+  "metin": "Başkasında hemen gördüğümüzü kendimizde neden görmüyoruz?",
+  "gorsel": "03-gonderi-duyurusu.png",
+  "bagli_gonderi": "2026-10-01-kor-nokta",
+  "yayin_tarihi": "2026-10-01",
+  "yayin_saati": "12:00",
+  "uyum": {
+    "durum": "bekliyor",
+    "kontrol_eden": null,
+    "not": ""
+  },
+  "durum": "onay-bekliyor",
+  "yayin_sonucu": null
+}

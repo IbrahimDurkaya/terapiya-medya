@@ -1,0 +1,16 @@
+{
+  "id": "08-gonderi-duyurusu",
+  "tur": "otomatik",
+  "metin": "Birini anlamak ile onun anlaşıldığını hissetmesi aynı şey mi? Araştırmalar ne diyor?",
+  "gorsel": "08-gonderi-duyurusu.png",
+  "bagli_gonderi": "2026-10-08-gorulmek-arastirma",
+  "yayin_tarihi": "2026-10-08",
+  "yayin_saati": "20:30",
+  "uyum": {
+    "durum": "bekliyor",
+    "kontrol_eden": null,
+    "not": ""
+  },
+  "durum": "onay-bekliyor",
+  "yayin_sonucu": null
+}

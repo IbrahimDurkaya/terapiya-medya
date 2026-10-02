@@ -1,0 +1,16 @@
+{
+  "id": "18-gonderi-duyurusu",
+  "tur": "otomatik",
+  "metin": "Kalabalıkta yalnız hissetmek, etrafta kimse olmaması değil.",
+  "gorsel": "18-gonderi-duyurusu.png",
+  "bagli_gonderi": "2026-10-22-kalabalikta-yalniz",
+  "yayin_tarihi": "2026-10-22",
+  "yayin_saati": "20:30",
+  "uyum": {
+    "durum": "bekliyor",
+    "kontrol_eden": null,
+    "not": ""
+  },
+  "durum": "onay-bekliyor",
+  "yayin_sonucu": null
+}

@@ -1,0 +1,16 @@
+{
+  "id": "elle-20-anket",
+  "tur": "elle",
+  "metin": "Kalabalık bir ortamda kendinizi yalnız hissettiğiniz oldu mu?",
+  "gorsel": "elle-20-anket.png",
+  "bagli_gonderi": null,
+  "yayin_tarihi": "2026-10-24",
+  "yayin_saati": "16:00",
+  "uyum": {
+    "durum": "bekliyor",
+    "kontrol_eden": null,
+    "not": ""
+  },
+  "durum": "onay-bekliyor",
+  "yayin_sonucu": null
+}

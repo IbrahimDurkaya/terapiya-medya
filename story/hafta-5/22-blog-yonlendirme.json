@@ -1,0 +1,16 @@
+{
+  "id": "22-blog-yonlendirme",
+  "tur": "otomatik",
+  "metin": "Kör nokta bir kusur değil. Her bakışın bir açısı vardır.",
+  "gorsel": "22-blog-yonlendirme.png",
+  "bagli_gonderi": null,
+  "yayin_tarihi": "2026-10-27",
+  "yayin_saati": "13:00",
+  "uyum": {
+    "durum": "bekliyor",
+    "kontrol_eden": null,
+    "not": ""
+  },
+  "durum": "onay-bekliyor",
+  "yayin_sonucu": null
+}

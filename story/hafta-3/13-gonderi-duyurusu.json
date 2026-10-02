@@ -1,0 +1,16 @@
+{
+  "id": "13-gonderi-duyurusu",
+  "tur": "otomatik",
+  "metin": "Bir ilişkide kendinize ne kadar yer kaldı? Yedi soru.",
+  "gorsel": "13-gonderi-duyurusu.png",
+  "bagli_gonderi": "2026-10-15-iliskide-kendine-yer",
+  "yayin_tarihi": "2026-10-15",
+  "yayin_saati": "20:30",
+  "uyum": {
+    "durum": "bekliyor",
+    "kontrol_eden": null,
+    "not": ""
+  },
+  "durum": "onay-bekliyor",
+  "yayin_sonucu": null
+}

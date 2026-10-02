@@ -1,0 +1,16 @@
+{
+  "id": "elle-24-soru-kutusu",
+  "tur": "elle",
+  "metin": "Ekim'i kapatırken merak ediyoruz.",
+  "gorsel": "elle-24-soru-kutusu.png",
+  "bagli_gonderi": null,
+  "yayin_tarihi": "2026-10-30",
+  "yayin_saati": "11:00",
+  "uyum": {
+    "durum": "bekliyor",
+    "kontrol_eden": null,
+    "not": ""
+  },
+  "durum": "onay-bekliyor",
+  "yayin_sonucu": null
+}

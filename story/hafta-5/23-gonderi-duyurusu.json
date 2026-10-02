@@ -1,0 +1,16 @@
+{
+  "id": "23-gonderi-duyurusu",
+  "tur": "otomatik",
+  "metin": "Bugün kimseye anlatmadığınız ama iyi gelen bir şey oldu mu?",
+  "gorsel": "23-gonderi-duyurusu.png",
+  "bagli_gonderi": "2026-10-29-anlatilmayan-anlar",
+  "yayin_tarihi": "2026-10-29",
+  "yayin_saati": "20:30",
+  "uyum": {
+    "durum": "bekliyor",
+    "kontrol_eden": null,
+    "not": ""
+  },
+  "durum": "onay-bekliyor",
+  "yayin_sonucu": null
+}

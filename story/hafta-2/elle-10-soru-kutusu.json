@@ -1,0 +1,16 @@
+{
+  "id": "elle-10-soru-kutusu",
+  "tur": "elle",
+  "metin": "Görülmek bazen çok küçük bir şeydir.",
+  "gorsel": "elle-10-soru-kutusu.png",
+  "bagli_gonderi": null,
+  "yayin_tarihi": "2026-10-10",
+  "yayin_saati": "16:00",
+  "uyum": {
+    "durum": "bekliyor",
+    "kontrol_eden": null,
+    "not": ""
+  },
+  "durum": "onay-bekliyor",
+  "yayin_sonucu": null
+}

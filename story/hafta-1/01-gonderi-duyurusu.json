@@ -1,0 +1,16 @@
+{
+  "id": "01-gonderi-duyurusu",
+  "tur": "otomatik",
+  "metin": "Cevapsız bir mesaj, zihinde üç hikâyeye dönüşebilir.",
+  "gorsel": "01-gonderi-duyurusu.png",
+  "bagli_gonderi": "2026-10-03-cevapsiz-mesaj",
+  "yayin_tarihi": "2026-10-03",
+  "yayin_saati": "20:30",
+  "uyum": {
+    "durum": "bekliyor",
+    "kontrol_eden": null,
+    "not": ""
+  },
+  "durum": "onay-bekliyor",
+  "yayin_sonucu": null
+}

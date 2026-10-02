@@ -1,0 +1,16 @@
+{
+  "id": "21-gonderi-duyurusu",
+  "tur": "otomatik",
+  "metin": "Bazen bir tartışmada istediğimiz tek şey duyulmaktır.",
+  "gorsel": "21-gonderi-duyurusu.png",
+  "bagli_gonderi": "2026-10-27-bazen-duyulmak",
+  "yayin_tarihi": "2026-10-27",
+  "yayin_saati": "20:30",
+  "uyum": {
+    "durum": "bekliyor",
+    "kontrol_eden": null,
+    "not": ""
+  },
+  "durum": "onay-bekliyor",
+  "yayin_sonucu": null
+}

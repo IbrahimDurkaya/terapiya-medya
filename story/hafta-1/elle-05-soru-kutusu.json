@@ -1,0 +1,16 @@
+{
+  "id": "elle-05-soru-kutusu",
+  "tur": "elle",
+  "metin": "Hepimizin bir kör noktası var.",
+  "gorsel": "elle-05-soru-kutusu.png",
+  "bagli_gonderi": null,
+  "yayin_tarihi": "2026-10-04",
+  "yayin_saati": "11:00",
+  "uyum": {
+    "durum": "bekliyor",
+    "kontrol_eden": null,
+    "not": ""
+  },
+  "durum": "onay-bekliyor",
+  "yayin_sonucu": null
+}

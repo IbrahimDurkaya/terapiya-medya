@@ -1,0 +1,16 @@
+{
+  "id": "17-blog-yonlendirme",
+  "tur": "otomatik",
+  "metin": "Bazen bir ilişkide asıl istediğimiz çözüm değil, sadece anlaşılmaktır.",
+  "gorsel": "17-blog-yonlendirme.png",
+  "bagli_gonderi": null,
+  "yayin_tarihi": "2026-10-20",
+  "yayin_saati": "13:00",
+  "uyum": {
+    "durum": "bekliyor",
+    "kontrol_eden": null,
+    "not": ""
+  },
+  "durum": "onay-bekliyor",
+  "yayin_sonucu": null
+}

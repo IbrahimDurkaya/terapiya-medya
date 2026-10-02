@@ -1,0 +1,16 @@
+{
+  "id": "elle-07-kaydirmali-olcek",
+  "tur": "elle",
+  "metin": "Bugün biri sizi gerçekten dinledi mi?",
+  "gorsel": "elle-07-kaydirmali-olcek.png",
+  "bagli_gonderi": null,
+  "yayin_tarihi": "2026-10-07",
+  "yayin_saati": "11:00",
+  "uyum": {
+    "durum": "bekliyor",
+    "kontrol_eden": null,
+    "not": ""
+  },
+  "durum": "onay-bekliyor",
+  "yayin_sonucu": null
+}

@@ -1,0 +1,16 @@
+{
+  "id": "elle-04-anket",
+  "tur": "elle",
+  "metin": "Mesajınız cevapsız kalınca aklınıza ilk ne gelir?",
+  "gorsel": "elle-04-anket.png",
+  "bagli_gonderi": null,
+  "yayin_tarihi": "2026-10-03",
+  "yayin_saati": "16:00",
+  "uyum": {
+    "durum": "bekliyor",
+    "kontrol_eden": null,
+    "not": ""
+  },
+  "durum": "onay-bekliyor",
+  "yayin_sonucu": null
+}

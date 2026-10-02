@@ -1,0 +1,16 @@
+{
+  "id": "11-gonderi-duyurusu",
+  "tur": "otomatik",
+  "metin": "Bir arkadaşınızın döngüsünü çözmek zorunda değilsiniz.",
+  "gorsel": "11-gonderi-duyurusu.png",
+  "bagli_gonderi": "2026-10-13-ayni-sikayet",
+  "yayin_tarihi": "2026-10-13",
+  "yayin_saati": "20:30",
+  "uyum": {
+    "durum": "bekliyor",
+    "kontrol_eden": null,
+    "not": ""
+  },
+  "durum": "onay-bekliyor",
+  "yayin_sonucu": null
+}

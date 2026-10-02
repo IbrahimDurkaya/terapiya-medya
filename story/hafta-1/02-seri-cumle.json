@@ -1,0 +1,16 @@
+{
+  "id": "02-seri-cumle",
+  "tur": "otomatik",
+  "metin": "Zihin belirsizliği sevmez; boşluğu en tanıdık korkusuyla doldurur.",
+  "gorsel": "02-seri-cumle.png",
+  "bagli_gonderi": null,
+  "yayin_tarihi": "2026-10-02",
+  "yayin_saati": "11:00",
+  "uyum": {
+    "durum": "bekliyor",
+    "kontrol_eden": null,
+    "not": ""
+  },
+  "durum": "onay-bekliyor",
+  "yayin_sonucu": null
+}

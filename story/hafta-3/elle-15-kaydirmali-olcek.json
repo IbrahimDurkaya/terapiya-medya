@@ -1,0 +1,16 @@
+{
+  "id": "elle-15-kaydirmali-olcek",
+  "tur": "elle",
+  "metin": "Bu hafta sizi gerçekten dinleyen biri oldu mu?",
+  "gorsel": "elle-15-kaydirmali-olcek.png",
+  "bagli_gonderi": null,
+  "yayin_tarihi": "2026-10-18",
+  "yayin_saati": "18:00",
+  "uyum": {
+    "durum": "bekliyor",
+    "kontrol_eden": null,
+    "not": ""
+  },
+  "durum": "onay-bekliyor",
+  "yayin_sonucu": null
+}

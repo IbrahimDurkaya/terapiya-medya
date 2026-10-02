@@ -1,0 +1,16 @@
+{
+  "id": "elle-12-anket",
+  "tur": "elle",
+  "metin": "Bir arkadaşınız hep aynı şeyden şikâyet ettiğinde ne yaparsınız?",
+  "gorsel": "elle-12-anket.png",
+  "bagli_gonderi": null,
+  "yayin_tarihi": "2026-10-14",
+  "yayin_saati": "16:00",
+  "uyum": {
+    "durum": "bekliyor",
+    "kontrol_eden": null,
+    "not": ""
+  },
+  "durum": "onay-bekliyor",
+  "yayin_sonucu": null
+}

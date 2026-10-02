@@ -1,0 +1,16 @@
+{
+  "id": "06-gonderi-duyurusu",
+  "tur": "otomatik",
+  "metin": "Susmak ile dinlemek aynı şey değil.",
+  "gorsel": "06-gonderi-duyurusu.png",
+  "bagli_gonderi": "2026-10-06-dinlemek-sira",
+  "yayin_tarihi": "2026-10-06",
+  "yayin_saati": "20:30",
+  "uyum": {
+    "durum": "bekliyor",
+    "kontrol_eden": null,
+    "not": ""
+  },
+  "durum": "onay-bekliyor",
+  "yayin_sonucu": null
+}
