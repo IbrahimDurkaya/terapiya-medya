@@ -1,7 +1,11 @@
 kaynak-foto.jpg — kapak fotoğrafı
 
 Kaynak: Pexels
-Bağlantı: https://www.pexels.com/photo/silver-smartphone-on-wooden-table-17577863/
-Fotoğrafçı: Dayne F (https://www.pexels.com/@dayne-f-3625870)
+Bağlantı: https://www.pexels.com/photo/alarm-clock-and-phone-on-a-side-table-6940357/
+Fotoğrafçı: cottonbro studio (https://www.pexels.com/@cottonbro)
 Lisans: Pexels Lisansı (ücretsiz kullanım, atıf zorunlu değil ama belirtildi)
-İndirilen dosya: orijinal çözünürlük (3168x4752)
+İndirilen dosya: orijinal çözünürlük (3995x5992)
+
+Not: İlk seçilen fotoğraf (Dayne F, 17577863 — "silver-smartphone-on-wooden-table")
+parlak, iridesan renkli, marka adı (VIVO) görünen bir ürün çekimiydi; marka diline
+uymadığı için değiştirildi (bkz. marka/04-gorsel.md Bölüm 12.10).
