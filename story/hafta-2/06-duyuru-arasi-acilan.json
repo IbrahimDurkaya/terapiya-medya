@@ -1,0 +1,13 @@
+{
+  "id": "06-duyuru-arasi-acilan",
+  "tur": "otomatik",
+  "model_baglantisi": "B",
+  "metin": "Mesafe bazen bir kavgadan değil, ikisinin de beklemesinden büyür.",
+  "gorsel": "06-duyuru-arasi-acilan.png",
+  "bagli_gonderi": "2026-11-08-arasi-acilan-arkadaslik",
+  "yayin_tarihi": "2026-11-08",
+  "yayin_saati": "21:00",
+  "uyum": { "durum": "bekliyor", "kontrol_eden": null, "not": "" },
+  "durum": "onay-bekliyor",
+  "yayin_sonucu": null
+}

@@ -1,0 +1,13 @@
+{
+  "id": "08-duyuru-tukenme",
+  "tur": "otomatik",
+  "model_baglantisi": "A",
+  "metin": "Tükenmişlik her zaman büyük bir şeyle gelmiyor.",
+  "gorsel": "08-duyuru-tukenme.png",
+  "bagli_gonderi": "2026-11-10-tukenme-bicimleri",
+  "yayin_tarihi": "2026-11-10",
+  "yayin_saati": "20:30",
+  "uyum": { "durum": "bekliyor", "kontrol_eden": null, "not": "" },
+  "durum": "onay-bekliyor",
+  "yayin_sonucu": null
+}

@@ -1,0 +1,13 @@
+{
+  "id": "elle-14-soru-yuk",
+  "tur": "elle",
+  "model_baglantisi": "B",
+  "metin": "Başkasının yükünü taşırken kendinizinkini ertelediğiniz oluyor mu?",
+  "gorsel": "elle-14-soru-yuk.png",
+  "bagli_gonderi": null,
+  "yayin_tarihi": "2026-11-20",
+  "yayin_saati": "18:00",
+  "uyum": { "durum": "bekliyor", "kontrol_eden": null, "not": "" },
+  "durum": "onay-bekliyor",
+  "yayin_sonucu": null
+}

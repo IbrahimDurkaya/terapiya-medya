@@ -7,10 +7,13 @@
   "yayin_tarihi": "2026-10-02",
   "yayin_saati": "11:00",
   "uyum": {
-    "durum": "bekliyor",
-    "kontrol_eden": null,
-    "not": ""
+    "durum": "gecti",
+    "kontrol_eden": "uyum-denetcisi",
+    "not": "18 madde kontrol edildi, temiz; madde 12 sınırda ama aforizma, bilimsel iddia değil."
   },
-  "durum": "onaylandi",
-  "yayin_sonucu": null
+  "durum": "yayinlandi",
+  "yayin_sonucu": {
+    "zaman": "2026-10-03T17:01:26.171Z",
+    "medya_id": "18079158323381132"
+  }
 }

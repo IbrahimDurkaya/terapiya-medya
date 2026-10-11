@@ -1,0 +1,13 @@
+{
+  "id": "03-duyuru-erken-karanlik",
+  "tur": "otomatik",
+  "model_baglantisi": "B",
+  "metin": "Akşam erken kararınca enerjinin de düşmesi tembellik değil.",
+  "gorsel": "03-duyuru-erken-karanlik.png",
+  "bagli_gonderi": "2026-11-05-erken-kararan-aksam",
+  "yayin_tarihi": "2026-11-05",
+  "yayin_saati": "20:30",
+  "uyum": { "durum": "bekliyor", "kontrol_eden": null, "not": "" },
+  "durum": "onay-bekliyor",
+  "yayin_sonucu": null
+}

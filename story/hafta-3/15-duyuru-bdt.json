@@ -1,0 +1,13 @@
+{
+  "id": "15-duyuru-bdt",
+  "tur": "otomatik",
+  "model_baglantisi": "A",
+  "metin": "Bir düşünce, gerçeğin kendisi olmayabilir.",
+  "gorsel": "15-duyuru-bdt.png",
+  "bagli_gonderi": "2026-11-21-bdt-dort-fikir",
+  "yayin_tarihi": "2026-11-21",
+  "yayin_saati": "20:30",
+  "uyum": { "durum": "bekliyor", "kontrol_eden": null, "not": "" },
+  "durum": "onay-bekliyor",
+  "yayin_sonucu": null
+}

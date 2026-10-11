@@ -1,0 +1,13 @@
+{
+  "id": "23-duyuru-kendine-iyi-bak",
+  "tur": "otomatik",
+  "model_baglantisi": "B",
+  "metin": "\"Kendine iyi bak\" demenin ötesinde ne var?",
+  "gorsel": "23-duyuru-kendine-iyi-bak.png",
+  "bagli_gonderi": "2026-11-30-kendine-iyi-bak-otesi",
+  "yayin_tarihi": "2026-11-30",
+  "yayin_saati": "20:30",
+  "uyum": { "durum": "bekliyor", "kontrol_eden": null, "not": "" },
+  "durum": "onay-bekliyor",
+  "yayin_sonucu": null
+}

@@ -1,0 +1,14 @@
+{
+  "id": "24-blog-terapi-yontemleri",
+  "tur": "otomatik",
+  "model_baglantisi": "notr",
+  "metin": "Bir terapi yönteminin neye baktığını merak ediyorsanız, blogda bu ay yeni yazılar var.",
+  "gorsel": "24-blog-terapi-yontemleri.png",
+  "bagli_gonderi": null,
+  "yayin_tarihi": "2026-11-30",
+  "yayin_saati": "13:00",
+  "uyum": { "durum": "bekliyor", "kontrol_eden": null, "not": "" },
+  "durum": "onay-bekliyor",
+  "yayin_sonucu": null,
+  "kreatif_notu": "Metin kasıtlı olarak yöntem adı saymıyor: hangi blog yazılarının 30 Kasım'da yayında olacağı bilinmiyor (uzman onayı koşulu). Link/bağlantı çıkartması yalnızca yayında olan yazılara verilir; 'Cinsel terapi' yazısı (27 Kasım) KAPSANMAZ (01-yasal.md madde 9). Hiçbir yazı yayında değilse metin şu seri cümlesiyle değiştirilir ve dosya adı/id buna göre güncellenir: 'Bazen yorgunluk, taşıdığımız şeyin adını koyamamaktır.'"
+}

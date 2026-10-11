@@ -7,10 +7,13 @@
   "yayin_tarihi": "2026-10-03",
   "yayin_saati": "20:30",
   "uyum": {
-    "durum": "bekliyor",
-    "kontrol_eden": null,
-    "not": ""
+    "durum": "gecti",
+    "kontrol_eden": "uyum-denetcisi",
+    "not": "18 madde kontrol edildi, temiz."
   },
-  "durum": "onaylandi",
-  "yayin_sonucu": null
+  "durum": "yayinlandi",
+  "yayin_sonucu": {
+    "zaman": "2026-10-03T17:31:51.767Z",
+    "medya_id": "18018326444946851"
+  }
 }

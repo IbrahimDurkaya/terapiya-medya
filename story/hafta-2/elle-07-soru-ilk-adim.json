@@ -1,0 +1,13 @@
+{
+  "id": "elle-07-soru-ilk-adim",
+  "tur": "elle",
+  "model_baglantisi": "B",
+  "metin": "Arası açılan biriyle ilk adımı atmayı ne zorlaştırıyor?",
+  "gorsel": "elle-07-soru-ilk-adim.png",
+  "bagli_gonderi": null,
+  "yayin_tarihi": "2026-11-09",
+  "yayin_saati": "18:00",
+  "uyum": { "durum": "bekliyor", "kontrol_eden": null, "not": "" },
+  "durum": "onay-bekliyor",
+  "yayin_sonucu": null
+}

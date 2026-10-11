@@ -1,0 +1,13 @@
+{
+  "id": "17-duyuru-bir-sey-yok",
+  "tur": "otomatik",
+  "model_baglantisi": "B",
+  "metin": "\"Bir şey yok\" dediğimizde, çoğu zaman bir şey vardır.",
+  "gorsel": "17-duyuru-bir-sey-yok.png",
+  "bagli_gonderi": "2026-11-24-bir-sey-yok",
+  "yayin_tarihi": "2026-11-24",
+  "yayin_saati": "20:30",
+  "uyum": { "durum": "bekliyor", "kontrol_eden": null, "not": "" },
+  "durum": "onay-bekliyor",
+  "yayin_sonucu": null
+}

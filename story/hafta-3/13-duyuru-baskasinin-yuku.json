@@ -1,0 +1,13 @@
+{
+  "id": "13-duyuru-baskasinin-yuku",
+  "tur": "otomatik",
+  "model_baglantisi": "B",
+  "metin": "Başkasının yükü neden kendimizinkinden hafif gelir?",
+  "gorsel": "13-duyuru-baskasinin-yuku.png",
+  "bagli_gonderi": "2026-11-19-baskasinin-yuku",
+  "yayin_tarihi": "2026-11-19",
+  "yayin_saati": "20:30",
+  "uyum": { "durum": "bekliyor", "kontrol_eden": null, "not": "" },
+  "durum": "onay-bekliyor",
+  "yayin_sonucu": null
+}

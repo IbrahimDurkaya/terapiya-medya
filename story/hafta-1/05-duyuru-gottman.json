@@ -1,0 +1,13 @@
+{
+  "id": "05-duyuru-gottman",
+  "tur": "otomatik",
+  "model_baglantisi": "A",
+  "metin": "Bir tartışmayı zehirleyen şey çoğu zaman konusu değil.",
+  "gorsel": "05-duyuru-gottman.png",
+  "bagli_gonderi": "2026-11-07-gottman-dort-aliskanlik",
+  "yayin_tarihi": "2026-11-07",
+  "yayin_saati": "20:30",
+  "uyum": { "durum": "bekliyor", "kontrol_eden": null, "not": "" },
+  "durum": "onay-bekliyor",
+  "yayin_sonucu": null
+}

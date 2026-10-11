@@ -1,0 +1,13 @@
+{
+  "id": "elle-02-olcek-yorgunluk",
+  "tur": "elle",
+  "model_baglantisi": "A",
+  "metin": "Bu hafta ne kadar yorgunsunuz?",
+  "gorsel": "elle-02-olcek-yorgunluk.png",
+  "bagli_gonderi": null,
+  "yayin_tarihi": "2026-11-04",
+  "yayin_saati": "18:00",
+  "uyum": { "durum": "bekliyor", "kontrol_eden": null, "not": "" },
+  "durum": "onay-bekliyor",
+  "yayin_sonucu": null
+}

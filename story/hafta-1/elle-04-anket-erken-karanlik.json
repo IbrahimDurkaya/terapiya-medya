@@ -1,0 +1,13 @@
+{
+  "id": "elle-04-anket-erken-karanlik",
+  "tur": "elle",
+  "model_baglantisi": "B",
+  "metin": "Akşam erken karardığında enerjinizin de düştüğünü fark ediyor musunuz?",
+  "gorsel": "elle-04-anket-erken-karanlik.png",
+  "bagli_gonderi": null,
+  "yayin_tarihi": "2026-11-06",
+  "yayin_saati": "18:00",
+  "uyum": { "durum": "bekliyor", "kontrol_eden": null, "not": "" },
+  "durum": "onay-bekliyor",
+  "yayin_sonucu": null
+}

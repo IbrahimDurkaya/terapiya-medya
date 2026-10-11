@@ -1,0 +1,13 @@
+{
+  "id": "01-duyuru-yorgunluk",
+  "tur": "otomatik",
+  "model_baglantisi": "A",
+  "metin": "Yeterince uyuyorsunuz ama yorgunsunuz. Sebep uyku olmayabilir.",
+  "gorsel": "01-duyuru-yorgunluk.png",
+  "bagli_gonderi": "2026-11-03-uykuyla-gecmeyen-yorgunluk",
+  "yayin_tarihi": "2026-11-03",
+  "yayin_saati": "20:30",
+  "uyum": { "durum": "bekliyor", "kontrol_eden": null, "not": "" },
+  "durum": "onay-bekliyor",
+  "yayin_sonucu": null
+}

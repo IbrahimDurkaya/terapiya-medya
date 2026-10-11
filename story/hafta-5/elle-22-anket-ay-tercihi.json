@@ -1,0 +1,13 @@
+{
+  "id": "elle-22-anket-ay-tercihi",
+  "tur": "elle",
+  "model_baglantisi": "notr",
+  "metin": "Bu ay hangisi size daha faydalı geldi?",
+  "gorsel": "elle-22-anket-ay-tercihi.png",
+  "bagli_gonderi": null,
+  "yayin_tarihi": "2026-11-29",
+  "yayin_saati": "18:00",
+  "uyum": { "durum": "bekliyor", "kontrol_eden": null, "not": "" },
+  "durum": "onay-bekliyor",
+  "yayin_sonucu": null
+}

@@ -1,0 +1,13 @@
+{
+  "id": "21-duyuru-asiri-dusunmek",
+  "tur": "otomatik",
+  "model_baglantisi": "A",
+  "metin": "Aşırı düşünen zihin bozuk değil. Bir şeyi kapatmaya çalışıyor olabilir.",
+  "gorsel": "21-duyuru-asiri-dusunmek.png",
+  "bagli_gonderi": "2026-11-29-asiri-dusunmek",
+  "yayin_tarihi": "2026-11-29",
+  "yayin_saati": "21:00",
+  "uyum": { "durum": "bekliyor", "kontrol_eden": null, "not": "" },
+  "durum": "onay-bekliyor",
+  "yayin_sonucu": null
+}

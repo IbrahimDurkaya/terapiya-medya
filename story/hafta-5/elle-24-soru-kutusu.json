@@ -7,9 +7,9 @@
   "yayin_tarihi": "2026-10-30",
   "yayin_saati": "11:00",
   "uyum": {
-    "durum": "bekliyor",
-    "kontrol_eden": null,
-    "not": ""
+    "durum": "gecti",
+    "kontrol_eden": "uyum-denetcisi",
+    "not": "18 madde kontrol edildi, temiz; \"Ekim'i\" marka kitabı 5.3'e uygun."
   },
   "durum": "onay-bekliyor",
   "yayin_sonucu": null

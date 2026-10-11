@@ -1,0 +1,13 @@
+{
+  "id": "elle-25-soru-aralik",
+  "tur": "elle",
+  "model_baglantisi": "notr",
+  "metin": "Aralık'ta neyi konuşalım?",
+  "gorsel": "elle-25-soru-aralik.png",
+  "bagli_gonderi": null,
+  "yayin_tarihi": "2026-11-30",
+  "yayin_saati": "18:00",
+  "uyum": { "durum": "bekliyor", "kontrol_eden": null, "not": "" },
+  "durum": "onay-bekliyor",
+  "yayin_sonucu": null
+}

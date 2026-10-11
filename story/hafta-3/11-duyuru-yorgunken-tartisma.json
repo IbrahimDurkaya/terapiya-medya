@@ -1,0 +1,13 @@
+{
+  "id": "11-duyuru-yorgunken-tartisma",
+  "tur": "otomatik",
+  "model_baglantisi": "A",
+  "metin": "Yorgunken başlayan bir tartışmanın konusu çoğu zaman konu değil.",
+  "gorsel": "11-duyuru-yorgunken-tartisma.png",
+  "bagli_gonderi": "2026-11-17-yorgunken-tartismak",
+  "yayin_tarihi": "2026-11-17",
+  "yayin_saati": "20:30",
+  "uyum": { "durum": "bekliyor", "kontrol_eden": null, "not": "" },
+  "durum": "onay-bekliyor",
+  "yayin_sonucu": null
+}

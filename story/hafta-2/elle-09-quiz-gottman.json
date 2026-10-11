@@ -1,0 +1,13 @@
+{
+  "id": "elle-09-quiz-gottman",
+  "tur": "elle",
+  "model_baglantisi": "A",
+  "metin": "Gottman'ın dördünden hangisini en çok fark ediyorsunuz?",
+  "gorsel": "elle-09-quiz-gottman.png",
+  "bagli_gonderi": null,
+  "yayin_tarihi": "2026-11-11",
+  "yayin_saati": "18:00",
+  "uyum": { "durum": "bekliyor", "kontrol_eden": null, "not": "" },
+  "durum": "onay-bekliyor",
+  "yayin_sonucu": null
+}

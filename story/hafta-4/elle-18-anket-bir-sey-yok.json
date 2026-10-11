@@ -1,0 +1,13 @@
+{
+  "id": "elle-18-anket-bir-sey-yok",
+  "tur": "elle",
+  "model_baglantisi": "B",
+  "metin": "\"Bir şey yok\" dediğinizde gerçekten bir şey olmadığı olur mu?",
+  "gorsel": "elle-18-anket-bir-sey-yok.png",
+  "bagli_gonderi": null,
+  "yayin_tarihi": "2026-11-25",
+  "yayin_saati": "18:00",
+  "uyum": { "durum": "bekliyor", "kontrol_eden": null, "not": "" },
+  "durum": "onay-bekliyor",
+  "yayin_sonucu": null
+}

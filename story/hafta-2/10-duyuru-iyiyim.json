@@ -1,0 +1,13 @@
+{
+  "id": "10-duyuru-iyiyim",
+  "tur": "otomatik",
+  "model_baglantisi": "B",
+  "metin": "\"İyiyim\" her zaman iyi olmak demek değil.",
+  "gorsel": "10-duyuru-iyiyim.png",
+  "bagli_gonderi": "2026-11-12-bazen-iyiyim",
+  "yayin_tarihi": "2026-11-12",
+  "yayin_saati": "20:30",
+  "uyum": { "durum": "bekliyor", "kontrol_eden": null, "not": "" },
+  "durum": "onay-bekliyor",
+  "yayin_sonucu": null
+}

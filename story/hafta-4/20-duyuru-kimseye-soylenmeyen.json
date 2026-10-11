@@ -1,0 +1,13 @@
+{
+  "id": "20-duyuru-kimseye-soylenmeyen",
+  "tur": "otomatik",
+  "model_baglantisi": "B",
+  "metin": "Bu yıl kimseye söylemediğiniz bir şey var mı?",
+  "gorsel": "20-duyuru-kimseye-soylenmeyen.png",
+  "bagli_gonderi": "2026-11-28-kimseye-soylenmeyen",
+  "yayin_tarihi": "2026-11-28",
+  "yayin_saati": "20:30",
+  "uyum": { "durum": "bekliyor", "kontrol_eden": null, "not": "" },
+  "durum": "onay-bekliyor",
+  "yayin_sonucu": null
+}
