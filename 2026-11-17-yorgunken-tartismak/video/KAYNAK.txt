@@ -1,0 +1,37 @@
+klip-a.mp4 — açılış klibi (0-26 sn)
+
+Kaynak: Pexels Videos
+Bağlantı: https://www.pexels.com/video/lamps-turning-on-6263194/
+Fotoğrafçı: cottonbro studio
+Lisans: Pexels Lisansı (ücretsiz kullanım, atıf zorunlu değil ama belirtildi)
+İndirilen dosya: HD (1080x2048, 25fps)
+Not: Senaryoda tarif edilen sahne ("loş koridor, kapı girişine bırakılmış
+çanta/ayakkabı") için denenen üç aday (boş kafe/pencere, hastane koridoru,
+asansör lobisi) ya içinde insan taşıdığı ya da kapak gradyan doğrulamasını
+(K1<90) geçemediği için elendi — bkz. aşağıdaki not. Bu klip yerine aynı
+"yorgun akşam" duygusunu taşıyan, boş, loş bir oturma odası sahnesi
+seçildi (kimse yok, K1 = 76.1).
+
+klip-b.mp4 — kapanış klibi (26-40 sn, kendi editöryel seçimimiz)
+
+Kaynak: Pexels Videos
+Bağlantı: https://www.pexels.com/video/droplets-of-water-in-kitchen-sink-6247913/
+Fotoğrafçı: Gary Barnes
+Lisans: Pexels Lisansı (ücretsiz kullanım, atıf zorunlu değil ama belirtildi)
+İndirilen dosya: HD (1080x1920, 24fps)
+Not: Senaryo bu sahne için görüntü tarif etmiyor (yalnızca "aynı sahne,
+kamera hafifçe yaklaşıyor" diyor — A Reels kuralına göre normalde 0-9 sn
+sonrası sade zemin olurdu). Kasım prodüksiyon talimatı tüm 5 Reels'i
+"klip-a 26sn + klip-b 14sn" yapısıyla aynen üretmeyi istediği için bu
+sahnenin editöryel seçimi bize bırakıldı; cue 3'teki "bulaşığa dönüşebilir"
+ifadesiyle örtüşen, boş bir mutfak lavabosu sahnesi seçildi.
+
+ÖNEMLİ NOT — A Reels görüntü kuralı istisnası: Bu postun senaryo.md'si,
+"sahne görüntüsü yalnızca açılışta (0-9 sn), gerisi sade zemin" diyor
+(carousel'deki "fotoğraf yalnızca kapakta" kuralının Reels karşılığı).
+Kasım'ın güncel üretim talimatı ise tüm 5 Reels için "klip-a 26sn + klip-b
+14sn" yapısını aynen istedi. Bu post (ve 2026-11-29) için senaryonun kendi
+kuralı yerine güncel talimat izlendi — video 40 saniye boyunca sürüyor,
+sade zemin kullanılmadı. İbrahim'in onayına sunulmalı.
+
+Müzik: marka/ses/muzik.mp3.mp3 (bkz. marka/ses/KAYNAK.txt — Pixabay Music, ticari kullanıma açık)
