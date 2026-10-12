@@ -1,0 +1,24 @@
+klip-a.mp4 — açılış klibi (0-26 sn)
+
+Kaynak: Pexels Videos
+Bağlantı: https://www.pexels.com/video/cozy-cafe-table-with-coffee-cups-and-notebook-37451729/
+Fotoğrafçı: Ninety Seven Years
+Lisans: Pexels Lisansı (ücretsiz kullanım, atıf zorunlu değil ama belirtildi)
+İndirilen dosya: HD (1080x1920, 30fps)
+Not: İlk seçilen aday (35490941, "nighttime-cityscape..." değil, boş kafe/pencere
+sahnesi) kapak gradyan doğrulamasında (K1) 94-100 arası ölçüldü, 90 eşiğinin
+altına düşürülemedi (pencereden görünen aydınlık çan kulesi arka planı çok
+parlak). Bu klip onun yerine seçildi; kapak karesinde (9. sn) K1 83.3 ölçüldü.
+
+klip-b.mp4 — kapanış klibi (26-40 sn)
+
+Kaynak: Pexels Videos
+Bağlantı: https://www.pexels.com/video/a-cup-of-coffee-and-a-candle-on-a-window-sill-19315630/
+Fotoğrafçı: Esra Erdem
+Lisans: Pexels Lisansı (ücretsiz kullanım, atıf zorunlu değil ama belirtildi)
+İndirilen dosya: HD (1080x1920, 25fps)
+Not: İlk aday (34316868, "cozy-evening-lamp-and-coffee-setup") mumun
+üzerinde okunabilir bir marka etiketi ("BOUTIQ") taşıdığı için elendi, marka
+kitabı Bölüm 4'teki marka dışı ürün kriteri gereği.
+
+Müzik: marka/ses/muzik.mp3.mp3 (bkz. marka/ses/KAYNAK.txt — Pixabay Music, ticari kullanıma açık)
