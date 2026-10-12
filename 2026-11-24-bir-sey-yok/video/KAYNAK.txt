@@ -1,0 +1,22 @@
+klip-a.mp4 — açılış klibi (0-26 sn)
+
+Kaynak: Pexels Videos
+Bağlantı: https://www.pexels.com/video/cozy-kitchen-utensils-and-stove-top-brew-39584327/
+Fotoğrafçı: Okan Demircan
+Lisans: Pexels Lisansı (ücretsiz kullanım, atıf zorunlu değil ama belirtildi)
+İndirilen dosya: HD (1080x1920, 25fps)
+Not: İlk seçilen aday ("soft light shadows on sheer curtains") kapak gradyan
+doğrulamasını (K1<90, ölçülen 90.3-94.6 arası) geçemediği için değiştirildi.
+Bu klibin orijinal kadrajında sol kenarda okunaklı marka adı taşıyan iki
+şişe (zeytinyağı/sirke) vardı; tüm video boyunca kırpma (crop) ile kadraj
+dışına alındı, marka görünmüyor.
+
+klip-b.mp4 — kapanış klibi (26-40 sn)
+
+Kaynak: Pexels Videos
+Bağlantı: https://www.pexels.com/video/cozy-morning-coffee-with-flowers-indoors-30790594/
+Fotoğrafçı: Nur Tok
+Lisans: Pexels Lisansı (ücretsiz kullanım, atıf zorunlu değil ama belirtildi)
+İndirilen dosya: HD (1080x1920, 30fps)
+
+Müzik: marka/ses/muzik.mp3.mp3 (bkz. marka/ses/KAYNAK.txt — Pixabay Music, ticari kullanıma açık)
