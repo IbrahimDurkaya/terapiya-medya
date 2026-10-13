@@ -1,14 +1,29 @@
 klip-a.mp4 — açılış klibi (0-26 sn)
 
 Kaynak: Pexels Videos
-Bağlantı: https://www.pexels.com/video/cozy-cafe-table-with-coffee-cups-and-notebook-37451729/
-Fotoğrafçı: Ninety Seven Years
+Bağlantı: https://www.pexels.com/video/cozy-indoor-cafe-with-classic-ambiance-30574535/
+Fotoğrafçı: (Pexels katkıcısı)
 Lisans: Pexels Lisansı (ücretsiz kullanım, atıf zorunlu değil ama belirtildi)
-İndirilen dosya: HD (1080x1920, 30fps)
-Not: İlk seçilen aday (35490941, "nighttime-cityscape..." değil, boş kafe/pencere
-sahnesi) kapak gradyan doğrulamasında (K1) 94-100 arası ölçüldü, 90 eşiğinin
-altına düşürülemedi (pencereden görünen aydınlık çan kulesi arka planı çok
-parlak). Bu klip onun yerine seçildi; kapak karesinde (9. sn) K1 83.3 ölçüldü.
+İndirilen dosya: HD (1080x1920, 25fps)
+Not: Senaryodaki "empty cafe table two chairs" tarifine uygun — boş ahşap masa,
+karşılıklı iki yeşil sandalye, sıcak tavan lambaları, cadde penceresi. Kaynak
+dosyanın kendi süresi 16 sn; video/reels.mp4'teki 0-26 sn dilimini doldurmak için
+döngüye alınıyor (stream_loop). Seçmeden önce kaynağın tamamı (16 sn, 1 sn
+aralıklarla) tarandı: tütün/alkol ürünü, okunabilir marka/logo, odakta insan yüzü
+yok. Pencerenin dışında, caddede birkaç kez uzak ve bulanık (odak dışı,
+tanınamayan) yaya geçiyor — bu gerçek bir cadde sahnesinin doğal parçası,
+kriterin kapsamı dışında tutuldu. Kapak karesinde (1. sn) K1 = 82.7.
+
+DEĞİŞTİRİLEN KLİP (kullanılmadı): Daha önce bu slot için 37451729
+("cozy-cafe-table-with-coffee-cups-and-notebook", Ninety Seven Years) seçilmişti.
+İbrahim'in 2026-10-12 tarihli incelemesinde, bu klipte masadaki fincanların
+yanında duran küçük siyah kutunun sigara paketi olduğu tespit edildi (açılmış
+selofan, altın yırtma bandı, altın folyo astar, yan yüzde beyaz uyarı etiketi —
+marka kitabı Bölüm 4 tütün ürünü eleme kriteri). Klip ve ondan türetilen kapak
+tamamen değiştirildi. (Bu klibin kendisi de aslında ilk tercih değildi — ondan
+önce 35490941, "nighttime-cityscape..." değil boş kafe/pencere sahnesi,
+kapak gradyan doğrulamasında K1 90 eşiğinin altına düşürülemediği için
+elenmişti.)
 
 klip-b.mp4 — kapanış klibi (26-40 sn)
 
