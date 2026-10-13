@@ -1,4 +1,4 @@
-klip-a.mp4 — açılış klibi (0-26 sn)
+klip-a.mp4 — açılış sahnesi (0-9 sn, senaryonun kendi süresi)
 
 Kaynak: Pexels Videos
 Bağlantı: https://www.pexels.com/video/lamps-turning-on-6263194/
@@ -8,30 +8,32 @@ Lisans: Pexels Lisansı (ücretsiz kullanım, atıf zorunlu değil ama belirtild
 Not: Senaryoda tarif edilen sahne ("loş koridor, kapı girişine bırakılmış
 çanta/ayakkabı") için denenen üç aday (boş kafe/pencere, hastane koridoru,
 asansör lobisi) ya içinde insan taşıdığı ya da kapak gradyan doğrulamasını
-(K1<90) geçemediği için elendi — bkz. aşağıdaki not. Bu klip yerine aynı
-"yorgun akşam" duygusunu taşıyan, boş, loş bir oturma odası sahnesi
-seçildi (kimse yok, K1 = 76.1).
+(K1<90) geçemediği için elendi. Bu klip yerine aynı "yorgun akşam"
+duygusunu taşıyan, boş, loş bir oturma odası sahnesi seçildi (kimse yok,
+kapak K1 = 76.1). Yalnızca ilk 9 saniyesi kullanılıyor (A Reels kuralı).
 
-klip-b.mp4 — kapanış klibi (26-40 sn, kendi editöryel seçimimiz)
+DÜZELTME (2026-10-12): Video, A modelinin kendi "sahne yalnızca açılışta,
+9. saniyeden sonra sade zemin" kuralına göre baştan üretildi
+(scripts/reels_montaj.py). Önceki sürümde bu kural uygulanmamış, video 40
+saniye boyunca (klip-a 26sn + klip-b 14sn) sürmüştü — İbrahim bunu fark
+edip düzeltilmesini istedi. klip-b.mp4 (mutfak lavabosu) artık
+kullanılmıyor, kaldırıldı: 9. saniyeden sonrası artık render_seri.py'deki
+KAGIT/KUM paleti ve seri şeridiyle, carousel gövde slaytlarıyla aynı
+görünümde sade zemin. Video süresi artık senaryonun kendi toplam süresi
+(56 sn) — 40 saniyeye sıkıştırılmıyor. Nüans bloğu ("Tartışmanın kaynağı
+bazen konu değil, o anki kapasite olabilir...") önceki sürümde eksikti,
+şimdi var.
 
-Kaynak: Pexels Videos
-Bağlantı: https://www.pexels.com/video/droplets-of-water-in-kitchen-sink-6247913/
-Fotoğrafçı: Gary Barnes
-Lisans: Pexels Lisansı (ücretsiz kullanım, atıf zorunlu değil ama belirtildi)
-İndirilen dosya: HD (1080x1920, 24fps)
-Not: Senaryo bu sahne için görüntü tarif etmiyor (yalnızca "aynı sahne,
-kamera hafifçe yaklaşıyor" diyor — A Reels kuralına göre normalde 0-9 sn
-sonrası sade zemin olurdu). Kasım prodüksiyon talimatı tüm 5 Reels'i
-"klip-a 26sn + klip-b 14sn" yapısıyla aynen üretmeyi istediği için bu
-sahnenin editöryel seçimi bize bırakıldı; cue 3'teki "bulaşığa dönüşebilir"
-ifadesiyle örtüşen, boş bir mutfak lavabosu sahnesi seçildi.
+DÜZELTME (2026-10-14, madde 1): Madde 1'in metni yeniden yazıldı — eski
+hali ("Gün boyu kendimizi tuttuğumuz her an aynı sabırdan harcar")
+tartışmalı/replikasyonu doğrulanmamış "ego tükenmesi" modelini olgu gibi
+sunuyordu. Yeni başlık "Tepki daha hızlı çıkar", yeni gövde "Yorgun bir
+zihin küçük bir şeye daha hızlı ve güçlü tepki verebilir. Araya mesafe
+koymak zorlaşabilir." — depo/tükenme metaforu yok.
 
-ÖNEMLİ NOT — A Reels görüntü kuralı istisnası: Bu postun senaryo.md'si,
-"sahne görüntüsü yalnızca açılışta (0-9 sn), gerisi sade zemin" diyor
-(carousel'deki "fotoğraf yalnızca kapakta" kuralının Reels karşılığı).
-Kasım'ın güncel üretim talimatı ise tüm 5 Reels için "klip-a 26sn + klip-b
-14sn" yapısını aynen istedi. Bu post (ve 2026-11-29) için senaryonun kendi
-kuralı yerine güncel talimat izlendi — video 40 saniye boyunca sürüyor,
-sade zemin kullanılmadı. İbrahim'in onayına sunulmalı.
+DÜZELTME (2026-10-14, madde 12): Nüans bloğu da kaynaksız bir sıklık
+iddiasını kesin kipte sunuyordu ("çoğu zaman ... kapasitedir"), caption'daki
+yumuşak haliyle tutarsızdı. "Tartışmanın kaynağı bazen konu değil, o anki
+kapasite olabilir." olarak değiştirildi.
 
 Müzik: marka/ses/muzik.mp3.mp3 (bkz. marka/ses/KAYNAK.txt — Pixabay Music, ticari kullanıma açık)
