@@ -1,33 +1,24 @@
-klip-a.mp4 — açılış klibi (0-26 sn)
+klip-a.mp4 — açılış sahnesi (0-9 sn, senaryonun kendi süresi)
 
 Kaynak: Pexels Videos
 Bağlantı: https://www.pexels.com/video/moody-urban-night-cityscape-with-traffic-31521814/
 Fotoğrafçı: David Saurik
 Lisans: Pexels Lisansı (ücretsiz kullanım, atıf zorunlu değil ama belirtildi)
-İndirilen dosya: HD (1080x1920, 30fps)
+İndirilen dosya: HD (1080x1920, 30fps) — yalnızca ilk 9 sn kullanıldığı için
+depoya 12 sn'e kırpılmış hali kondu (kaynak dosya 54 sn'di).
 Not: Senaryonun tarif ettiği sahneyle ("buğulu pencere, bulanık şehir ışıkları,
 gece") birebir eşleşiyor. Cadde çekiminde uzakta, tanınamayacak kadar küçük
 birkaç yaya var (gerçek bir sokak sahnesinin doğal parçası); yüz ya da kimlik
 seçilmiyor.
 
-klip-b.mp4 — kapanış klibi (26-40 sn, kendi editöryel seçimimiz)
-
-Kaynak: Pexels Videos
-Bağlantı: https://www.pexels.com/video/lamp-on-a-side-table-lighting-up-6114429/
-Fotoğrafçı: cottonbro studio
-Lisans: Pexels Lisansı (ücretsiz kullanım, atıf zorunlu değil ama belirtildi)
-İndirilen dosya: HD (1080x2048, 25fps)
-Not: Senaryo bu sahne için görüntü tarif etmiyor (yalnızca "aynı sahne,
-camda yavaşça süzülen bir damla" diyor — A Reels kuralına göre normalde
-0-9 sn sonrası sade zemin olurdu, bkz. aşağıdaki not). Karanlık bir
-yatak odasında yavaşça yanan bir lamba — "zihnin gece yavaş yavaş
-aydınlanması/uyanması" metaforuyla örtüşen, kendi editöryel seçimimiz.
-
-ÖNEMLİ NOT — A Reels görüntü kuralı istisnası: Bu postun senaryo.md'si de
-(2026-11-17 ile aynı şekilde), "sahne görüntüsü yalnızca açılışta (0-9 sn),
-gerisi sade zemin" diyor. Kasım'ın güncel üretim talimatı tüm 5 Reels için
-"klip-a 26sn + klip-b 14sn" yapısını aynen istedi; bu post için de senaryonun
-kendi kuralı yerine güncel talimat izlendi — video 40 saniye boyunca sürüyor,
-sade zemin kullanılmadı. İbrahim'in onayına sunulmalı.
+DÜZELTME (2026-10-12): Video, A modelinin kendi "sahne yalnızca açılışta,
+9. saniyeden sonra sade zemin" kuralına göre baştan üretildi
+(scripts/reels_montaj.py). Önceki sürümde bu kural uygulanmamış, video 40
+saniye boyunca (klip-a 26sn + klip-b 14sn) sürmüştü — İbrahim bunu fark
+edip düzeltilmesini istedi. klip-b.mp4 (karanlık yatak odası lambası) artık
+kullanılmıyor, kaldırıldı: 9. saniyeden sonrası artık render_seri.py'deki
+KAGIT/KUM paleti ve seri şeridiyle, carousel gövde slaytlarıyla aynı
+görünümde sade zemin. Video süresi artık senaryonun kendi toplam süresi
+(55 sn) — 40 saniyeye sıkıştırılmıyor.
 
 Müzik: marka/ses/muzik.mp3.mp3 (bkz. marka/ses/KAYNAK.txt — Pixabay Music, ticari kullanıma açık)
