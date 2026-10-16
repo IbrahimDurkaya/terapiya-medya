@@ -21,4 +21,24 @@ KAGIT/KUM paleti ve seri şeridiyle, carousel gövde slaytlarıyla aynı
 görünümde sade zemin. Video süresi artık senaryonun kendi toplam süresi
 (55 sn) — 40 saniyeye sıkıştırılmıyor.
 
+DÜZELTME (2026-10-14, okunurluk+güvenli alan): Açılış sahnesinde metin
+hareketli görüntü üstünde yerel olarak okunmuyordu — ortalama parlaklık
+geçiyordu ama 95. yüzdelik ~175 (şehir bokehi metnin altından vuruyor).
+Ayrıca büyük hayalet rakam Instagram'ın alt arayüzünün (~300px) kapatacağı
+bölgeye kadar iniyordu. scripts/reels_montaj.py'ye metin dikdörtgenini
+kapsayan koyultma katmanı eklendi (%90 sabit opaklık, smoothstep kenarlar);
+rakamın taşma sınırı 1920-300=1620px'e çekildi. Yeniden ölçüm: açılış cue 0
+ortalama=43.1 p95=52, cue 1 ortalama=43.7 p95=48 (ikisi de <90); madde
+rakamları üst~1234-1243px, görünür-alt=1620px.
+
+DÜZELTME (2026-10-16, madde 12): Uyum denetçisi senaryo/caption metninin
+birkaç yerde kesin kipte, kaynaksız sıklık/mekanizma iddiası taşıdığını
+tespit etti: "Çoğu zaman bir şey yapmaya çalışır" (4-9 sn), madde 1'in
+gövdesi ("zihni rahatsız eder / ihtimalleri tek tek dener"), madde 3'ün
+gövdesi ("işaretli kalır / geri gelir") ve nüans bloğu ("Üçü de bir koruma
+çabası. ... yorar.") — kreatif_notu'ndaki "olabilir kipinde" beyanı metinle
+çelişiyordu. Tümü "olabilir/-ebilir" kipine yumuşatıldı, caption'daki
+karşılığı da güncellendi, video yeniden render edildi (55 sn, aynı
+okunurluk/güvenli-alan ölçümleri geçerli).
+
 Müzik: marka/ses/muzik.mp3.mp3 (bkz. marka/ses/KAYNAK.txt — Pixabay Music, ticari kullanıma açık)
