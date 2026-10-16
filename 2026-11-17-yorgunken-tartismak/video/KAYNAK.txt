@@ -46,4 +46,20 @@ rakamın taşma sınırı 1920-300=1620px'e çekildi. Yeniden ölçüm: açılı
 ortalama=44.3 p95=49, cue 1 ortalama=44.8 p95=48 (ikisi de <90); madde
 rakamları üst~1234-1243px, görünür-alt=1620px.
 
+DÜZELTME (2026-10-16, koyultma katmanı + rakam): İbrahim ölçtü: önceki
+koyultma katmanı (metin dikdörtgenine bağlı plato) fotoğrafın üstünde
+görünür bir kutu bırakıyordu (üst/alt kenarlarda ~42-50 birimlik parlaklık
+basamağı); ayrıca rakam artık hiç taşmıyordu, carousel'deki numaralı gövde
+düzeniyle uyumsuz kalmıştı. Koyultma katmanı değiştirildi: artık üst
+şeridin alt kenarından başlayan, 150px boyunca smoothstep ile %90
+opaklığa açılıp sonra görselin altına kadar sabit kalan bir gradyan (tek
+kenarı zaten var olan şerit sınırı, plato metin konumundan bağımsız sabit
+opaklıkta). Üç kalıcı kabul ölçütü (marka/04-gorsel.md 12.12):
+  (1) metin dikdörtgeni ortalama/p95: cue0 44.3/49, cue1 44.9/48 (<90)
+  (2) satır farkı: cue0 0.7, cue1 0.4 (<=5)
+  (3) kutu kenarı oranı: cue0 0.001, cue1 0.009 (<=0.20)
+Rakam puntosu carousel'in 1350px tuvaline oranlanarak büyütüldü
+(620→883pt); madde rakamları üst=1071-1083px, görünür-alt=1620px,
+tam-alt(taşan)=1715-1717px.
+
 Müzik: marka/ses/muzik.mp3.mp3 (bkz. marka/ses/KAYNAK.txt — Pixabay Music, ticari kullanıma açık)
