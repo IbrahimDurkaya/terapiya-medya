@@ -41,4 +41,19 @@ gövdesi ("işaretli kalır / geri gelir") ve nüans bloğu ("Üçü de bir koru
 karşılığı da güncellendi, video yeniden render edildi (55 sn, aynı
 okunurluk/güvenli-alan ölçümleri geçerli).
 
+DÜZELTME (2026-10-16, koyultma katmanı + rakam): İbrahim ölçtü: önceki
+koyultma katmanı (metin dikdörtgenine bağlı plato) fotoğrafın üstünde
+görünür bir kutu bırakıyordu; ayrıca rakam artık hiç taşmıyordu,
+carousel'deki numaralı gövde düzeniyle uyumsuz kalmıştı. Koyultma katmanı
+değiştirildi: artık üst şeridin alt kenarından başlayan, 150px boyunca
+smoothstep ile %90 opaklığa açılıp sonra görselin altına kadar sabit kalan
+bir gradyan (tek kenarı zaten var olan şerit sınırı). Üç kalıcı kabul
+ölçütü (marka/04-gorsel.md 12.12):
+  (1) metin dikdörtgeni ortalama/p95: cue0 43.1/53, cue1 43.7/48 (<90)
+  (2) satır farkı: cue0 0.4, cue1 1.4 (<=5)
+  (3) kutu kenarı oranı: cue0 0.001, cue1 0.021 (<=0.20)
+Rakam puntosu carousel'in 1350px tuvaline oranlanarak büyütüldü
+(620→883pt); madde rakamları üst=1071-1083px, görünür-alt=1620px,
+tam-alt(taşan)=1715-1717px.
+
 Müzik: marka/ses/muzik.mp3.mp3 (bkz. marka/ses/KAYNAK.txt — Pixabay Music, ticari kullanıma açık)
