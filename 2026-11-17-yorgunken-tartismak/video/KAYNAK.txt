@@ -36,4 +36,14 @@ iddiasını kesin kipte sunuyordu ("çoğu zaman ... kapasitedir"), caption'daki
 yumuşak haliyle tutarsızdı. "Tartışmanın kaynağı bazen konu değil, o anki
 kapasite olabilir." olarak değiştirildi.
 
+DÜZELTME (2026-10-14, okunurluk+güvenli alan): Açılış sahnesinde metin
+hareketli görüntü üstünde yerel olarak okunmuyordu — ortalama parlaklık
+geçiyordu ama 95. yüzdelik ~130 (abajur ışığı metnin altından vuruyor).
+Ayrıca büyük hayalet rakam Instagram'ın alt arayüzünün (~300px) kapatacağı
+bölgeye kadar iniyordu. scripts/reels_montaj.py'ye metin dikdörtgenini
+kapsayan koyultma katmanı eklendi (%90 sabit opaklık, smoothstep kenarlar);
+rakamın taşma sınırı 1920-300=1620px'e çekildi. Yeniden ölçüm: açılış cue 0
+ortalama=44.3 p95=49, cue 1 ortalama=44.8 p95=48 (ikisi de <90); madde
+rakamları üst~1234-1243px, görünür-alt=1620px.
+
 Müzik: marka/ses/muzik.mp3.mp3 (bkz. marka/ses/KAYNAK.txt — Pixabay Music, ticari kullanıma açık)
