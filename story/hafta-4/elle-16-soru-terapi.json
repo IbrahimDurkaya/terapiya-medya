@@ -7,7 +7,7 @@
   "bagli_gonderi": null,
   "yayin_tarihi": "2026-11-23",
   "yayin_saati": "18:00",
-  "uyum": { "durum": "bekliyor", "kontrol_eden": null, "not": "" },
+  "uyum": { "durum": "gecti", "kontrol_eden": "uyum-denetcisi", "not": "18 madde kontrol edildi, temiz; kriz ve kişisel danışma güvenlik notu kreatif_notu ile rehberde tutarlı." },
   "durum": "onay-bekliyor",
   "yayin_sonucu": null,
   "kreatif_notu": "Strateji koşulu: cevaplar bireysel olarak yanıtlanmaz; kişisel danışma sorusuna cevap yazılmaz; kriz sinyali gelirse otomatik cevap yazılmaz, 01-yasal.md Bölüm 1.5'e göre işaretlenip İbrahim'e bildirilir."

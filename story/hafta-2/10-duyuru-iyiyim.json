@@ -7,7 +7,7 @@
   "bagli_gonderi": "2026-11-12-bazen-iyiyim",
   "yayin_tarihi": "2026-11-12",
   "yayin_saati": "20:30",
-  "uyum": { "durum": "bekliyor", "kontrol_eden": null, "not": "" },
+  "uyum": { "durum": "gecti", "kontrol_eden": "uyum-denetcisi", "not": "18 madde kontrol edildi, temiz; 5.1 'her zaman' olumsuz bağlamda kullanılmış, mutlaklık kurmuyor (3 Ekim emsali)." },
   "durum": "onay-bekliyor",
   "yayin_sonucu": null
 }

@@ -11,6 +11,9 @@
     "kontrol_eden": "uyum-denetcisi",
     "not": "18 madde kontrol edildi; madde 10 sınırdaydı, bağlı carousel puansız/sonuçsuz olduğu için İbrahim istisna onayladı (koordinatör iletti, 3 Ekim)."
   },
-  "durum": "onaylandi",
-  "yayin_sonucu": null
+  "durum": "yayinlandi",
+  "yayin_sonucu": {
+    "zaman": "2026-10-15T17:32:30.937Z",
+    "medya_id": "18122497642917138"
+  }
 }

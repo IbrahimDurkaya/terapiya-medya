@@ -7,7 +7,11 @@
   "bagli_gonderi": "2026-11-03-uykuyla-gecmeyen-yorgunluk",
   "yayin_tarihi": "2026-11-03",
   "yayin_saati": "20:30",
-  "uyum": { "durum": "bekliyor", "kontrol_eden": null, "not": "" },
-  "durum": "onay-bekliyor",
+  "uyum": {
+    "durum": "gecti",
+    "kontrol_eden": "uyum-denetcisi",
+    "not": "18 madde kontrol edildi, temiz."
+  },
+  "durum": "onaylandi",
   "yayin_sonucu": null
 }

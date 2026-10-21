@@ -11,6 +11,9 @@
     "kontrol_eden": "uyum-denetcisi",
     "not": "18 madde kontrol edildi; 5.1 'çözmek' sınırdaydı, olumsuz bağlam olduğu için İbrahim istisna onayladı (koordinatör iletti, 3 Ekim)."
   },
-  "durum": "onaylandi",
-  "yayin_sonucu": null
+  "durum": "yayinlandi",
+  "yayin_sonucu": {
+    "zaman": "2026-10-13T17:32:34.940Z",
+    "medya_id": "18021881705933152"
+  }
 }

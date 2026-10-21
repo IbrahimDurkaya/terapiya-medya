@@ -7,7 +7,7 @@
   "bagli_gonderi": null,
   "yayin_tarihi": "2026-11-09",
   "yayin_saati": "18:00",
-  "uyum": { "durum": "bekliyor", "kontrol_eden": null, "not": "" },
+  "uyum": { "durum": "gecti", "kontrol_eden": "uyum-denetcisi", "not": "18 madde kontrol edildi, temiz; soru kutusu cevapları için rehberdeki güvenlik notu geçerli." },
   "durum": "onay-bekliyor",
   "yayin_sonucu": null
 }

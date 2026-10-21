@@ -7,7 +7,7 @@
   "bagli_gonderi": "2026-11-08-arasi-acilan-arkadaslik",
   "yayin_tarihi": "2026-11-08",
   "yayin_saati": "21:00",
-  "uyum": { "durum": "bekliyor", "kontrol_eden": null, "not": "" },
+  "uyum": { "durum": "gecti", "kontrol_eden": "uyum-denetcisi", "not": "18 madde kontrol edildi, temiz." },
   "durum": "onay-bekliyor",
   "yayin_sonucu": null
 }

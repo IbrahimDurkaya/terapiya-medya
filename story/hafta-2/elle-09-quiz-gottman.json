@@ -7,7 +7,7 @@
   "bagli_gonderi": null,
   "yayin_tarihi": "2026-11-11",
   "yayin_saati": "18:00",
-  "uyum": { "durum": "bekliyor", "kontrol_eden": null, "not": "" },
+  "uyum": { "durum": "gecti", "kontrol_eden": "uyum-denetcisi", "not": "18 madde kontrol edildi, temiz; Gottman yayımlanmış kaynak atfı, tanıtım değil (madde 7). Çıkartma doğru cevaplı quiz değil anket olmalı." },
   "durum": "onay-bekliyor",
   "yayin_sonucu": null
 }

@@ -11,6 +11,9 @@
     "kontrol_eden": "uyum-denetcisi",
     "not": "18 madde kontrol edildi, temiz."
   },
-  "durum": "onaylandi",
-  "yayin_sonucu": null
+  "durum": "yayinlandi",
+  "yayin_sonucu": {
+    "zaman": "2026-10-17T08:02:04.015Z",
+    "medya_id": "18167833150475875"
+  }
 }
