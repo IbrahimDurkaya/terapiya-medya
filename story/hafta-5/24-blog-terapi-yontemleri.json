@@ -7,8 +7,12 @@
   "bagli_gonderi": null,
   "yayin_tarihi": "2026-11-30",
   "yayin_saati": "13:00",
-  "uyum": { "durum": "gecti", "kontrol_eden": "uyum-denetcisi", "not": "18 madde kontrol edildi, temiz; metin yöntem adı saymıyor, 'Cinsel terapi' yazısını kapsamıyor (kreatif_notu ve strateji notu tutarlı). Yedek metne geçilirse yeniden denetlenmeli." },
-  "durum": "onay-bekliyor",
+  "uyum": {
+    "durum": "gecti",
+    "kontrol_eden": "uyum-denetcisi",
+    "not": "18 madde kontrol edildi, temiz; metin yöntem adı saymıyor, 'Cinsel terapi' yazısını kapsamıyor (kreatif_notu ve strateji notu tutarlı). Yedek metne geçilirse yeniden denetlenmeli."
+  },
+  "durum": "onaylandi",
   "yayin_sonucu": null,
   "kreatif_notu": "Metin kasıtlı olarak yöntem adı saymıyor: hangi blog yazılarının 30 Kasım'da yayında olacağı bilinmiyor (uzman onayı koşulu). Link/bağlantı çıkartması yalnızca yayında olan yazılara verilir; 'Cinsel terapi' yazısı (27 Kasım) KAPSANMAZ (01-yasal.md madde 9). Hiçbir yazı yayında değilse metin şu seri cümlesiyle değiştirilir ve dosya adı/id buna göre güncellenir: 'Bazen yorgunluk, taşıdığımız şeyin adını koyamamaktır.'"
 }
