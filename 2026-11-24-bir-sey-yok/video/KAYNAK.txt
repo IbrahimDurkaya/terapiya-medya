@@ -1,22 +1,164 @@
-klip-a.mp4 — açılış klibi (0-26 sn)
+klip-a.mp4 — açılış klibi kaynağı (ham, işlenmemiş)
 
 Kaynak: Pexels Videos
-Bağlantı: https://www.pexels.com/video/cozy-kitchen-utensils-and-stove-top-brew-39584327/
-Fotoğrafçı: Okan Demircan
+Bağlantı: https://www.pexels.com/video/an-open-door-6798992/
+Fotoğrafçı: RDNE Stock project (https://www.pexels.com/@rdne)
 Lisans: Pexels Lisansı (ücretsiz kullanım, atıf zorunlu değil ama belirtildi)
-İndirilen dosya: HD (1080x1920, 25fps)
-Not: İlk seçilen aday ("soft light shadows on sheer curtains") kapak gradyan
-doğrulamasını (K1<90, ölçülen 90.3-94.6 arası) geçemediği için değiştirildi.
-Bu klibin orijinal kadrajında sol kenarda okunaklı marka adı taşıyan iki
-şişe (zeytinyağı/sirke) vardı; tüm video boyunca kırpma (crop) ile kadraj
-dışına alındı, marka görünmüyor.
+İndirilen dosya: doğuştan dikey HD (1080x1920, 24fps), kaynak süresi 10.175sn.
+reels.mp4'te kullanımı: ilk 10sn'si alınır, ağır çekimle 20,9sn'ye uzatılır
+(bkz. aşağıdaki "Okuma hızı düzeltmesi" notu) — döngü (stream_loop)
+kullanılmadı, yalnızca zaman ekseni yavaşlatıldı.
 
-klip-b.mp4 — kapanış klibi (26-40 sn)
+Değişiklik notu (2026-10-26): Önceki klip-a ("side-table-with-coffee-candle-
+and-a-vase-on-top") İbrahim tarafından reddedildi — sahne yemek/mutfak
+hazırlığı izlenimi veriyordu (sarı çiçekli vazo, beyaz sürahi, süt bardağı),
+içerik iki kişi arasındaki söylenmemiş gerginlik hakkındayken yiyecek/mutfak
+çağrışımı yanlıştı. Yeni görsel tema İbrahim tarafından verildi: "aralık
+duran bir kapı — ne açık ne kapalı; diğer odadan gelen ışık eşiğe düşüyor."
+
+Tarama süreci: ~20 Pexels sorgusu, 30'un üzerinde aday tek tek kontrol edildi
+(boyut, süre, açıklama, kare kare görsel doğrulama). Tema + doğuştan dikey +
+26sn+ süre şartının üçünü birden karşılayan aday bulunamadı; İbrahim süre
+şartını gevşetmeyi onayladı (bkz. proje geçmişi). İlk onaylanan aday ("a-door-
+is-open-in-a-dark-room-with-sunlight-coming-in", 20sn) kare kare indirilip
+incelendiğinde videonun BAŞINDAN İTİBAREN iki kişinin merdiven boşluğunda
+durduğu görüldü (küçük resimde fark edilmiyordu) — "insan görünmesin" şartını
+açıkça ihlal ettiği için elendi, kullanılmadı.
+
+Seçilen klip (an-open-door): kapının kendisi (kol + kenar) kadrajda, aralıktan
+sızan ışık çapraz bir gölge olarak eski bir koltuğun üzerine düşüyor — "eşiğe
+düşen ışık" temasını doğrudan karşılıyor. İnsan yok, okunabilir marka/logo
+yok, tütün/alkol yok. Koltuk üzerinde küçük bir kristal/ankh obje ve bir kitap
+var (İbrahim'e soruldu, "masa üstü natürmort" değil — gerçek bir odanın
+tesadüfi eşyaları, kabul edildi).
+
+Doğrulama (marka/04-gorsel.md 12.12, `scripts/reels_montaj.py`'nin açılış
+ölçüm mantığıyla — `_acilis_sahnesi_uret`, tüm videonun nihai (ağır çekimli,
+34sn'lik) hali için elle çalıştırıldı, bkz. aşağıdaki tam tablo): klip-a'ya
+denk gelen ilk 5 cue'nun hepsinde ortalama/p95 parlaklık eşiğin (<90) rahatça
+altında, satır farkı ve kutu kenarı ölçütleri de eşiklerin altında.
+
+
+klip-b.mp4 — kapanış klibi kaynağı (ham, işlenmemiş)
 
 Kaynak: Pexels Videos
-Bağlantı: https://www.pexels.com/video/cozy-morning-coffee-with-flowers-indoors-30790594/
-Fotoğrafçı: Nur Tok
+Bağlantı: https://www.pexels.com/video/soft-light-shadows-on-sheer-curtains-31145306/
+Fotoğrafçı: Letícia Alvares (https://www.pexels.com/@leticia-alvares-1805702)
 Lisans: Pexels Lisansı (ücretsiz kullanım, atıf zorunlu değil ama belirtildi)
-İndirilen dosya: HD (1080x1920, 30fps)
+İndirilen dosya: doğuştan dikey HD (1080x1920, 60fps), kaynak süresi 13.88sn.
+reels.mp4'te kullanımı: ilk 13sn'si alınır, ağır çekimle 13,1sn'ye uzatılır
+(çok hafif, ~1,008x) — döngü kullanılmadı.
 
-Müzik: marka/ses/muzik.mp3.mp3 (bkz. marka/ses/KAYNAK.txt — Pixabay Music, ticari kullanıma açık)
+Değişiklik notu (2026-10-26): Önceki klip-b ("cozy-morning-coffee-with-
+flowers-indoors") de değiştirildi — kare çekilip incelendiğinde kahve
+dökülen bir fincan ve papatya buketi olduğu görüldü, yani tam da bu turda
+yasaklanan "içecek + çiçek düzenlemesi" kategorisi; ayrıca yeni açılış
+temasıyla (kapı aralığı, askıda kalan ışık) tonal uyumu kalmamıştı (sıcak/
+"cozy" bir sahneden askıda bırakan bir sahneye geçiş). Yerine, orijinal
+senaryonun (46sn'lik ilk taslak) 7. sahnesindeki fikre dönüldü: "sabah
+ışığının perdeden odaya süzülmesi." Seçilen klip: düz (desensiz/çiçeksiz)
+tül perde, altın saatte sıcak ışık, yumuşak dal gölgeleri — insan yok,
+yiyecek/içecek/çiçek yok, tek bir sade konu.
+
+Doğrulama: klip-b'ye denk gelen son 2 cue'da da aynı yöntemle ölçüldü, ikisi
+de geçti (bkz. aşağıdaki tam tablo).
+
+
+reels.mp4 — birleşik video (34 sn toplam)
+
+Yapı: klip-a + klip-b, sert kesim, üstte sabit seri şeridi, koyultma
+gradyanı video boyunca sürer, 7 cue'nun hepsi kinetik tipografiyle
+(fade in/out) video üzerine yazılır — Eylül/Ekim'den beri kurulu B modeli
+yapısı (marka/04-gorsel.md 12.12) korundu. Son cue'da (7.) metnin altında
+beyaz logo belirir, aynı fade zamanlamasıyla.
+
+Okuma hızı düzeltmesi (2026-10-27): 23sn'lik ilk sürümde bazı cue'lar
+(özellikle açılıştaki kısa cümleler) saniyede 20+ karaktere kadar
+çıkıyordu — İbrahim'in ölçtüğü değerlerle (açılış cue'su ~1,5sn, iki cue
+saniyede ~14 karakter) uyumlu, okunamayacak kadar hızlı. Düzeltme iki
+adımdı:
+
+1. Her iki klip de AĞIR ÇEKİMLE uzatıldı (`setpts` ile, döngü değil —
+   klip-a.mp4/klip-b.mp4'teki ham kaynaklardan kullanılan 10sn ve 13sn'lik
+   kesitler olduğu gibi korunup zaman ekseninde yavaşlatıldı, hiçbir kare
+   tekrar oynatılmadı). Klip-a 10sn'den 20,9sn'ye (~2,09x yavaş), klip-b
+   13sn'den 13,1sn'ye (~1,008x, çok hafif) uzatıldı. Toplam video 23sn'den
+   34sn'ye çıktı (hedef aralık 32-34sn).
+   İlk denemede `-t` bayrağı yanlış sırada verilmiş, ffmpeg girdiyi değil
+   çıktıyı 10/13sn'de kesmişti — bu da `_acilis_sahnesi_uret`'in iç
+   `_klip_hazirla` çağrısında `stream_loop` devreye girip eksik süreyi
+   DÖNGÜYLE tamamlamasına yol açıyordu (tam da yasaklanan şey). `-t`
+   girdi tarafına (`-i`'den önce) taşınarak düzeltildi, döngü kullanılmadı
+   doğrulandı (klip-a-proc gerçek süre=20,87sn, klip-b-proc=13,10sn).
+
+2. 7 cue, klip içi karakter sayısına ORANTILI yeniden dağıtıldı (eski
+   sahne-zamanlama oranı değil — saf oransal ölçekleme 32-34sn'lik
+   aralıkta açılıştaki en kısa cue'yu 2sn eşiğinin altında bırakıyordu).
+   Klip-a'daki 5 cue kendi aralarında karakter sayısına göre (18/19/23/
+   63/63), klip-b'deki 2 cue de kendi aralarında (20/45) paylaştırıldı —
+   sonuç: klip-a'daki her cue sabit ~8,90 karakter/sn, klip-b'dekiler
+   sabit ~4,96 karakter/sn (ikisi de kabul ölçütü olan 11'in altında).
+   Metinlerin hiçbirine dokunulmadı.
+
+KABUL ÖLÇÜTLERİ — üçü de karşılandı:
+
+  cue 0 "Bir şey mi oldu?"                              (0.00-2.02sn, 2.02sn)
+    18 karakter → 8.90 kr/sn   ortalama=52.7  p95=62  satır farkı=0.6  kutu oranı=0.019  [OK]
+  cue 1 "Yok, bir şey yok."                              (2.02-4.16sn, 2.13sn)
+    19 karakter → 8.90 kr/sn   ortalama=51.6  p95=62  satır farkı=0.6  kutu oranı=0.019  [OK]
+  cue 2 "İkiniz de biliyorsunuz."                        (4.16-6.74sn, 2.58sn)
+    23 karakter → 8.90 kr/sn   ortalama=51.7  p95=62  satır farkı=0.8  kutu oranı=0.019  [OK]
+  cue 3 "Söylenmeyen şey ortadan kalkmaz..."             (6.74-13.82sn, 7.08sn)
+    63 karakter → 8.90 kr/sn   ortalama=52.4  p95=62  satır farkı=0.6  kutu oranı=0.023  [OK]
+  cue 4 "Bazen "bir şey yok"... demektir."               (13.82-20.90sn, 7.08sn)
+    63 karakter → 8.90 kr/sn   ortalama=51.8  p95=62  satır farkı=0.8  kutu oranı=0.019  [OK]
+  cue 5 "Bazen de "yine sor.""                           (20.90-24.93sn, 4.03sn)
+    20 karakter → 4.96 kr/sn   ortalama=54.0  p95=65  satır farkı=0.5  kutu oranı=0.031  [OK]
+  cue 6 "Sizin "bir şey yok"unuz en çok neyi saklıyor?"  (24.93-34.00sn, 9.07sn)
+    45 karakter → 4.96 kr/sn   ortalama=54.0  p95=65  satır farkı=0.5  kutu oranı=0.021  [OK]
+
+Logo boşluğu düzeltmesi (2026-10-28): son karede metin bloğu ile logo
+arası 33px ölçülmüştü, marka kitabı kuralı (GOVDE_LOGO_BOSLUK, marka/
+04-gorsel.md 12.6) en az 80px. Kök neden: logo konumu, drawtext'in çok
+satırlı gerçek satır aralığını yansıtmayan bir geometrik tahminle
+(satır_px * satır sayısı) hesaplanıyordu — gerçek render ~90px daha
+aşağıda başlıyordu, elle eklenen 33px'lik boşluk bu farkı telafi etmeye
+çalışıyordu ama kuralın altında kalıyordu.
+
+Tek bir videoda elle düzeltmek yerine scripts/reels_montaj.py'ye iki
+yeni fonksiyon eklendi — bundan sonraki tüm B modeli Reels'ler bunları
+kullanacak:
+  - `_metin_alt_kenar_olc()`: son cue'nun metninin gerçek alt kenarını,
+    metinsiz ve metinli karşılık gelen kareleri karşılaştırarak ölçer
+    (geometrik tahmin değil).
+  - `logo_ekle_son_cue()`: logoyu bu gerçek alt kenarın GOVDE_LOGO_BOSLUK
+    (80px) altına yerleştirir; sonuç güvenli alt sınırı (YUKSEKLIK -
+    GUVENLI_ALT = 1620px) aşarsa ValueError fırlatıp durur, logoyu
+    güvenli alana zorla sıkıştırmaz.
+
+Bu süreçte iki ayrı performans/doğruluk hatası da bulunup düzeltildi:
+(1) `_metin_alt_kenar_olc`'un ilk sürümü piksel piksel Python döngüsüyle
+(~1,5M piksel, `.load()` ile tek tek erişim) dakikalarca sürüyordu —
+`ImageChops.difference` (C seviyesi) + toplu `getdata()` ile aynı ölçüm
+artık birkaç saniyede bitiyor. (2) `logo_ekle_son_cue`'nun ffmpeg
+komutu, `-loop 1` ile süresiz hale gelen logo PNG girdisini yalnızca
+`-shortest` ile sınırlamaya çalışıyordu — bu, fade filtre zinciriyle
+birlikte güvenilir çalışmıyor, ffmpeg süresiz bekliyordu (3sn'lik bir
+test klibinde bile 60sn'de bitmedi). Logo girdisine doğrudan video
+süresiyle `-t` verilerek düzeltildi, sonuç anında (<1sn) tamamlanıyor.
+
+Yeniden üretilen reels.mp4'te ölçülen (gerçek render edilen son
+kareden, bağımsız doğrulamayla): metin alt kenarı=1131px, logo üst
+kenarı=1211px, boşluk=80px (kural: >=80px, [OK]), logo alt kenarı=
+1277px (güvenli sınır 1620px'in altında, [OK]).
+
+(eşikler: hiçbir cue <2sn, hiçbir cue >11 kr/sn, ortalama/p95 <90,
+satır farkı <=5, kutu oranı <=0.20 — hepsi rahatça altında/üstünde)
+
+gorsel/01.png (kapak, 1080x1350, fotografli_kapak_ciz): klip-a'dan alınan bir
+kareyle yeniden üretildi. İlk denemede (kare aynen, kırpılmadan) başlık
+bölgesinde p95=90 çıktı — eşiği (<90) tam sınırda geçemiyordu; koltuktaki
+kristal objenin parlak yansıması başlık kutusuna giriyordu. Kare alttan
+kırpılıp (1920px kaynağın alt 320px'i atılarak, 1600px'e indirilerek) en
+parlak taban/zemin ışık şeridi kadraj dışına alındı — ortalama=60.8, p95=82,
+ikisi de eşiğin rahatça altında.
